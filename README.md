@@ -53,7 +53,7 @@
 
 Plain HTML, CSS, and JavaScript. No frameworks and no build step.
 
-Typography by **Instrument Serif** and **DM Sans**.
+Typography by **Playfair Display** and **Outfit**.
 
 ---
 
